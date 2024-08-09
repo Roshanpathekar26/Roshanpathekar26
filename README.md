@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan pathekar</h1>
-<h3 align="center">I am a dynamic Fronted & Full Stack Developer passionate about crafting innovative solutions.</h3>
+<h3 align="centre">I am a MERN  Stack Developer passionate about crafting innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarji26&label=Profile%20views&color=0e75b6&style=flat" alt="pawarji26" /> </p>
 
@@ -31,6 +31,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawarji26&show_icons=true&locale=en" alt="pawarji26" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawarji26&" alt="pawarji26" /></p>
