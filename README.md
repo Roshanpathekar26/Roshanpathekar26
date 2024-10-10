@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 Currently building: ** E-commarce website  Clone with React.js & MongoDB**
+- 🔭 Currently building: **E-commarce website  Clone with React.js & MongoDB**
 - 🌱 Currently learning: **PHP for backend development** and **Advanced React.js concepts**
 - 💡 Exploring: **Full-Stack Development** and **API Integrations** for real-world projects
 - ⚡ Fun fact: I believe in **continuous learning** and love experimenting with **new tech stacks**!
@@ -64,12 +64,7 @@
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="40" height="40"/>
   </a>
-  <a href="https://chakra-ui.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" alt="chakra ui" width="40" height="40"/>
-  </a>
-  <a href="https://shadcn.dev" target="_blank">
-    <img src="https://shadcn.dev/favicon.png" alt="shadcn ui" width="40" height="40"/>
-  </a>
+
 </p>
 
 
@@ -111,7 +106,7 @@
 
 - **PHP for server-side development**
 - **Advanced React.js concepts**
-- **using Ai snart work there prompat**
+- **using Ai smart work there prompt**
 
 ---
 
